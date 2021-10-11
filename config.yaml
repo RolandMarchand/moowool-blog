@@ -164,11 +164,11 @@ menu:
           params:
               newTab: true
 
-        - identifier: github
-          name: Github
-          url: https://github.com/Spowmtom/website
+        - identifier: git
+          name: Git
+          url: https://git.moowool.info/moowool/moowool-blog
           weight: 0
-          pre: github
+          pre: git
           params:
               newTab: true
 
