@@ -188,14 +188,6 @@ menu:
           params:
               newTab: true
 
-        - identifier: translate
-          name: Translate
-          url: https://translate.moowool.info
-          weight: 10
-          pre: translate
-          params:
-              newTab: true
-
         - identifier: home
           name: Home
           url: /
