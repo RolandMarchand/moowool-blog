@@ -1,4 +1,4 @@
 **/*~
 /public
 update-website.sh
-/*.tar.gz
+/*.tar*
