@@ -9,10 +9,6 @@ aliases:
   - contact
   - donation
 license: CC BY 4.0
-menu:
-    main: 
-        weight: -90
-        pre: user
 ---
 
 ## Contacts
